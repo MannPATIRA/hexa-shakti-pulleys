@@ -31,4 +31,4 @@ Thumbs.db
 *.csv
 !requirements.txt
 
-./sheets-api-473619-dc7d5f869aeb.json
+sheets-api-473619-dc7d5f869aeb.json
